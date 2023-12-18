@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chat Bot</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="resgister">Resgister</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password">Password</string>
+    <string name="confirmation_password">Confirmation Password</string>
+    <string name="login">Login</string>
+    <string name="have_an_account_login">Have an Account? Login</string>
+    <string name="write_here">Write here</string>
+</resources>

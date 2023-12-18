@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow_200">#F4CE14</color>
+    <color name="hex">#FFA500</color>
+    <color name="army_700">#186F65</color>
+    <color name="army_200">#495E57</color>
+    <color name="blue_700">#00B6FF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text">#4D4C7D</color>
+    <color name="core_colors_platinum_white">#F4F6F9</color>
+    <color name="blue_beuty">#2271F8</color>
+</resources>
